@@ -1,0 +1,6 @@
+Shell commands
+
+
+echo: It is used to print on the terminal Window
+Eg: echo 'Hello World!!'
+Output: Hello World!!
